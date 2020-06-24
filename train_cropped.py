@@ -1,9 +1,3 @@
-"""
-This script goes along my blog post:
-Extending Keras' ImageDataGenerator to Support Random Cropping (https://jkjung-avt.github.io/keras-image-cropping/)
-"""
-
-
 import numpy as np
 from tensorflow.python.keras import backend as K
 from tensorflow.python.keras.models import Model
